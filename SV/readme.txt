@@ -1,1 +1,1 @@
-SystemVerilog testbench written for class project in COEN413
+SystemVerilog testbenchs written for class projects in COEN413 - Hardware Functional Verification
